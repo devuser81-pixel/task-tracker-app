@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Title": "Set up .NET environment",
+    "IsCompleted": true
+  },
+  {
+    "Id": 2,
+    "Title": "Implement JSON storage",
+    "IsCompleted": true
+  },
+  {
+    "Id": 3,
+    "Title": "Publish GitHub repository",
+    "IsCompleted": false
+  },
+  {
+    "Id": 1,
+    "Title": "Set up .NET environment",
+    "IsCompleted": true
+  },
+  {
+    "Id": 2,
+    "Title": "Implement JSON storage",
+    "IsCompleted": true
+  },
+  {
+    "Id": 3,
+    "Title": "Publish GitHub repository",
+    "IsCompleted": false
+  }
+]
